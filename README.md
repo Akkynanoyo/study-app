@@ -25,6 +25,10 @@ lib/
     └── firestore_service.dart  # Firebase/Firestore operations
 ```
 
+## New Joiner Guide (Japanese)
+
+- For onboarding notes in Japanese, see `docs/NEW_JOINER_GUIDE_JA.md`.
+
 ## Development Setup
 
 ### Prerequisites
